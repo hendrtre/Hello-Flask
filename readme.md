@@ -68,3 +68,9 @@ The following project was built during my course with Bottega.  It has full CRUD
 >>> from app import db
 >>> db.create_all()
 ```
+
+
+resources to "how to install dependencies for flask database and API Features."
+http://flask-sqlalchemy.pocoo.org/2.3/
+http://flask-marshmallow.readthedocs.io/en/latest/
+https://marshmallow-sqlalchemy.readthedocs.io/en/latest/
